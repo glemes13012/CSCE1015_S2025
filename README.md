@@ -10,3 +10,7 @@ asdf
 am3287
 ## Favorite Professor
 abcdef
+## EUID
+
+## Favorite Professor
+$(YOUR_FAVORITE_PROFESSOR)
