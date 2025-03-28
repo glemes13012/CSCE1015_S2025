@@ -14,3 +14,9 @@ abcdef
 
 ## Favorite Professor
 $(YOUR_FAVORITE_PROFESSOR)
+## EUID
+
+gl0311
+## Favorite Professor
+$(asdf)
+asdf
